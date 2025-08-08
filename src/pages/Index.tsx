@@ -33,6 +33,7 @@ const PROJECTS = [
       "The Weather App is a simple and interactive web application that allows users to search and view real-time weather data for any city around the world. It utilizes the OpenWeatherMap API to fetch current weather information like temperature, humidity, wind speed, and weather conditions.",
     tech: ["HTML5", "CSS3", "JAVASCRIPT"],
     github: "https://github.com/AkarshKumar27/Weather-_.git",
+    demo: "https://akarshkumar27.github.io/Weather-_/",
   },
   {
     title: "NEURONEST",
